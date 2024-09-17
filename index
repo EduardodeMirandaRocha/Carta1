@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/style.css">
+    <title>Flashcard</title>
+</head>
+<body>
+    <main>
+        <section id="container">
+            <article class="cartao">
+                <div class="cartao__conteudo">
+                    <h3>Programação</h3>
+                    <div class="cartao__conteudo__pergunta">
+                        1)O que é calor?
+                    </div>
+                    <div class="cartao__conteudo__resposta">
+                       1)transferência de energia térmica entre corpos que possuem temperaturas distintas.
+                    </div>
+                </div>
+            </article>
+            <article class="cartao">
+                <div class="cartao__conteudo">
+                    <h3>Programação</h3>
+                    <div class="cartao__conteudo__pergunta">
+                        2)O que é temperatura?
+                    </div>
+                    <div class="cartao__conteudo__resposta">
+                       2)grandeza física que mede o grau de agitação térmica, ou energia cinética, translacional, rotacional e vibracional dos átomos e moléculas que constituem um corpo
+                    </div>
+                </div>
+            </article>
+        </section>
+    </main>
+    <footer>
+        <p>Projeto desenvolvido pela Alura, sem fins lucrativos</p>
+    </footer>
+</body>
+</html>
